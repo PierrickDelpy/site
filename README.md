@@ -1,4 +1,4 @@
-site
-====
+Site HTML content
+=================
 
-grails site
+HTML site
